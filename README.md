@@ -3,3 +3,7 @@
 ## Technical Architecture
 
 [View Technical Architecture PDF](TECHNICAL_ARCHITECTURE.pdf)
+
+## ER-DIAGRAM
+
+[View ER-DIAGRAM PDF](ER_DIAGRAM(1).PDF)
