@@ -6,7 +6,7 @@
 
 ## ER-DIAGRAM
 
-[View ER-DIAGRAM PDF](ER_DIAGRAM(1).pdf)
+[View ER-DIAGRAM PDF](ER-DIAGRAM.pdf)
 
 ## FEATURES
 
